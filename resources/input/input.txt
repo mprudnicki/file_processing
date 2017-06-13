@@ -1,0 +1,6 @@
+Maciej, Rudnicki, 1995-02-21, 600987621
+Karolina, Puchacka, 1980-01-12, +48 123123123
+Karolina, Puchacka, 1996-03-11, +48404123123
+Danuta, Piwowarska, 1999-11-11, 
+Gabriela, Kaleciñska, 1971-03-11
+
